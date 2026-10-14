@@ -1,0 +1,6 @@
+{
+  "name": "SmartAttend AI — Context-Aware Attendance & AI Study Platform",
+  "description": "Dynamic attendance management with facial-landmark double-blink gesture detection, biometric verification, and AI-powered study assistance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

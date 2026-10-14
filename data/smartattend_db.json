@@ -1,0 +1,17 @@
+{
+  "users": [],
+  "departments": [],
+  "classes": [],
+  "subjects": [],
+  "timetables": [],
+  "faceEnrollments": [],
+  "attendanceSessions": [],
+  "attendanceRecords": [],
+  "odLeaveRequests": [],
+  "studyMaterials": [],
+  "aiConversations": [],
+  "quizzes": [],
+  "quizAttempts": [],
+  "revisionPlans": [],
+  "auditLogs": []
+}
